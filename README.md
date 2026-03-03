@@ -3,10 +3,13 @@
 > 60-day structured DSA preparation for Software Engineering internships  
 > Language: Java | Platform: LeetCode | Start Date: [Your Date]
 
-## 📊 Progress
-| Day | Topic | Easy | Medium | Status |
-|-----|-------|------|--------|--------|
-| 1   | Arrays | Two Sum | Best Time to Buy & Sell Stock | ✅ |
+## Progress
+
+| Day    | Topic         | Problems                                                    |
+| ------ | ------------- | ----------------------------------------------------------- |
+| Day 01 | Arrays Basics | RunningSum_LC1480, TwoSum_LC1, BestTimeToBuySellStock_LC121 |
+| Day 02 | Two Pointers  | ValidPalindrome_LC125, TwoSumII_LC167                       |
+
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
@@ -18,3 +21,10 @@
 - Pattern-focused, not random
 - Internship-oriented problems only
 ```
+
+## Patterns Covered
+
+* Prefix Sum
+* HashMap (Complement Pattern)
+* Running Minimum (Greedy)
+* Two Pointers (Opposite Direction)

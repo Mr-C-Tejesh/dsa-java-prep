@@ -1,12 +1,13 @@
-
 public class MaxSubarray_LC53 {
-    public static int maxProfit(int[] prices) {
-        int buy = prices[0];
-        int max =0;
-        for (int i=0;i<prices.length;i++) {
-            if (prices[i]<buy) buy = prices[i];
-            else if (prices[i]-buy > max) max = prices[i]-buy;
+    public int maxSubArray(int[] nums) {
+        int currentSum = nums[0];
+        int maxSum = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+            currentSum = Math.max(nums[i], currentSum + nums[i]);
+            maxSum = Math.max(maxSum, currentSum);
         }
-        return max; 
+
+        return maxSum;
     }
 }

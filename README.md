@@ -10,6 +10,7 @@
 | Day 01 | Arrays Basics | RunningSum_LC1480, TwoSum_LC1, BestTimeToBuySellStock_LC121 |
 | Day 02 | Two Pointers  | ValidPalindrome_LC125, TwoSumII_LC167                       |
 | Day 03 | In-place Array + Kadane | MoveZeroes_LC283, MaxSubarray_LC53 |
+| Day 04 | Sliding Window | MaxAverageSubarray_LC643, LongestSubstringWithoutRepeating_LC3 |
 
 
 ## 🗂️ Topic Index
@@ -30,3 +31,5 @@
 - Two Pointers (Opposite Direction)
 - Slow-Fast Pointer (In-place modification)
 - Kadane’s Algorithm (Maximum Subarray)
+- Sliding Window (Fixed)
+- Sliding Window (Variable)

@@ -1,7 +1,7 @@
 # DSA Java Prep 🚀
 
 > 60-day structured DSA preparation for Software Engineering internships  
-> Language: Java | Platform: LeetCode | Start Date: [Your Date]
+> Language: Java | Platform: LeetCode | Start Date: 01/03/2026
 
 ## Progress
 
@@ -12,6 +12,7 @@
 | Day 03 | In-place Array + Kadane | MoveZeroes_LC283, MaxSubarray_LC53 |
 | Day 04 | Sliding Window | MaxAverageSubarray_LC643, LongestSubstringWithoutRepeating_LC3 |
 | Day 05 | HashMap Frequency |LongestRepeatingCharReplacement_LC424, MaxVowelsSubstring_LC1456, ValidAnagram_LC242|
+| Day 06 | Stack | ValidParentheses_LC20, DailyTemperatures_LC739 |
 
 
 ## 🗂️ Topic Index
@@ -35,3 +36,5 @@
 - Sliding Window (Fixed)
 - Sliding Window (Variable)
 - Frequency Map
+- Stack (LIFO, ArrayDeque)
+- Monotonic Decreasing Stack

@@ -13,6 +13,7 @@
 | Day 04 | Sliding Window | MaxAverageSubarray_LC643, LongestSubstringWithoutRepeating_LC3 |
 | Day 05 | HashMap Frequency |LongestRepeatingCharReplacement_LC424, MaxVowelsSubstring_LC1456, ValidAnagram_LC242|
 | Day 06 | Stack | ValidParentheses_LC20, DailyTemperatures_LC739 |
+| Day 07 | Prefix Sum + HashMap | SubarraySumEqualsK_LC560, ProductExceptSelf_LC238 |
 
 
 ## 🗂️ Topic Index
@@ -38,3 +39,5 @@
 - Frequency Map
 - Stack (LIFO, ArrayDeque)
 - Monotonic Decreasing Stack
+- Prefix Sum + HashMap (complement lookup)
+- Prefix × Suffix Product (no division)

@@ -14,12 +14,13 @@
 | Day 05 | HashMap Frequency |LongestRepeatingCharReplacement_LC424, MaxVowelsSubstring_LC1456, ValidAnagram_LC242|
 | Day 06 | Stack | ValidParentheses_LC20, DailyTemperatures_LC739 |
 | Day 07 | Prefix Sum + HashMap | SubarraySumEqualsK_LC560, ProductExceptSelf_LC238 |
+| Day 08 | Binary Search | BinarySearch_LC704, SearchRotatedArray_LC33 |
 
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
 - [Strings](./Strings)
-- ...
+- [HashMap](./HashMap)
 
 ## 🧠 Approach
 - 1–2 problems daily
@@ -41,3 +42,5 @@
 - Monotonic Decreasing Stack
 - Prefix Sum + HashMap (complement lookup)
 - Prefix × Suffix Product (no division)
+- Binary Search (standard template)
+- Modified Binary Search (rotated array)

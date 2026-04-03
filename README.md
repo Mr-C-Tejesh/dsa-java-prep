@@ -16,6 +16,7 @@
 | Day 07 | Prefix Sum + HashMap | SubarraySumEqualsK_LC560, ProductExceptSelf_LC238 |
 | Day 08 | Binary Search | BinarySearch_LC704, SearchRotatedArray_LC33 |
 | Day 09 | Binary Search Variants | FindMinRotatedArray_LC153, KokoEatingBananas_LC875 |
+| Day 10 | Linked List | ReverseLinkedList_LC206, MergeTwoSortedLists_LC21 |
 
 
 ## 🗂️ Topic Index
@@ -48,3 +49,5 @@
 - Binary Search on Rotated Array (find minimum)
 - Binary Search on Answer Space
 - Integer Ceiling Formula: (a + m - 1) / m
+- Linked List Iterative Reversal
+- Dummy Head Pattern

@@ -18,6 +18,7 @@
 | Day 09 | Binary Search Variants  | FindMinRotatedArray_LC153, KokoEatingBananas_LC875                                | ✅     |
 | Day 10 | Linked List             | ReverseLinkedList_LC206, MergeTwoSortedLists_LC21                                 | ✅     |
 | Day 11 | Fast/Slow Pointers      | LinkedListCycle_LC141, RemoveNthFromEnd_LC19                                      | ✅     |
+| Day 12 | Binary Trees DFS | MaxDepth_LC104, SameTree_LC100 | ✅ |
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
@@ -71,3 +72,7 @@
 - Dummy Head Pattern
 - Fast/Slow Pointers — Cycle Detection (Floyd's)
 - Fast/Slow with n+1 gap — Positional Removal
+
+### Trees
+- DFS Postorder (bottom-up result building)
+- Simultaneous DFS on two trees

@@ -19,6 +19,7 @@
 | Day 10 | Linked List             | ReverseLinkedList_LC206, MergeTwoSortedLists_LC21                                 | ✅     |
 | Day 11 | Fast/Slow Pointers      | LinkedListCycle_LC141, RemoveNthFromEnd_LC19                                      | ✅     |
 | Day 12 | Binary Trees DFS | MaxDepth_LC104, SameTree_LC100 | ✅ |
+| Day 13 | Binary Trees DFS 2 | InvertBinaryTree_LC226, DiameterOfBinaryTree_LC543 | ✅ |
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
@@ -76,3 +77,5 @@
 ### Trees
 - DFS Postorder (bottom-up result building)
 - Simultaneous DFS on two trees
+- DFS Preorder (top-down swap)
+- DFS with global result variable (diameter, path sum)

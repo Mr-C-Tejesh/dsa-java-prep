@@ -20,6 +20,7 @@
 | Day 11 | Fast/Slow Pointers      | LinkedListCycle_LC141, RemoveNthFromEnd_LC19                                      | ✅     |
 | Day 12 | Binary Trees DFS | MaxDepth_LC104, SameTree_LC100 | ✅ |
 | Day 13 | Binary Trees DFS 2 | InvertBinaryTree_LC226, DiameterOfBinaryTree_LC543 | ✅ |
+| Day 14 | Binary Trees BFS | LevelOrderTraversal_LC102, RightSideView_LC199 | ✅ |
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
@@ -79,3 +80,5 @@
 - Simultaneous DFS on two trees
 - DFS Preorder (top-down swap)
 - DFS with global result variable (diameter, path sum)
+- BFS Level Order (Queue + level size snapshot)
+- BFS Right Side View (peek after level completes)

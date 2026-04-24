@@ -21,6 +21,7 @@
 | Day 12 | Binary Trees DFS | MaxDepth_LC104, SameTree_LC100 | ✅ |
 | Day 13 | Binary Trees DFS 2 | InvertBinaryTree_LC226, DiameterOfBinaryTree_LC543 | ✅ |
 | Day 14 | Binary Trees BFS | LevelOrderTraversal_LC102, RightSideView_LC199 | ✅ |
+| Day 15 | Heap / Priority Queue | KthLargestElement_LC215, TopKFrequentElements_LC347 | ✅ |
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
@@ -82,3 +83,7 @@
 - DFS with global result variable (diameter, path sum)
 - BFS Level Order (Queue + level size snapshot)
 - BFS Right Side View (peek after level completes)
+
+### Heap / Priority Queue
+- Min-Heap of size K (K largest elements)
+- Min-Heap with custom comparator (order by frequency)

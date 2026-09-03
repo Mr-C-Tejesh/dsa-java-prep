@@ -24,6 +24,7 @@
 | Day 15 | Heap / Priority Queue | KthLargestElement_LC215, TopKFrequentElements_LC347 | ✅ |
 | Day 16 | Backtracking | Subsets_LC78, Permutations_LC46 | ✅ |
 | Day 17 | Backtracking | CombinationSum_LC39 | ✅ |
+| Day 18 | Graphs BFS/DFS | NumberOfIslands_LC200, FloodFill_LC733 | ✅ |
 
 ## 🗂️ Topic Index
 - [Arrays](./Arrays)
@@ -94,3 +95,8 @@
 - Include/Exclude decision tree (Subsets)
 - Swap-based permutation (in-place undo)
 - Combination Sum (reuse allowed, include=same index)
+
+### Graphs
+- Grid DFS (4-direction traversal)
+- Connected Components (sink visited nodes)
+- Region Painting (Flood Fill)
